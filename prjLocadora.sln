@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjLocadora", "prjLocadora\prjLocadora.csproj", "{CD5B1867-5FD9-4727-9FF2-490C9DD1C22B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD5B1867-5FD9-4727-9FF2-490C9DD1C22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5B1867-5FD9-4727-9FF2-490C9DD1C22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5B1867-5FD9-4727-9FF2-490C9DD1C22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5B1867-5FD9-4727-9FF2-490C9DD1C22B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6649C33C-23B3-43C3-9A44-DB6714B181D1}
+	EndGlobalSection
+EndGlobal
