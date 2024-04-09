@@ -239,6 +239,7 @@ namespace prjLocadora
             this.txtCodFilme.Name = "txtCodFilme";
             this.txtCodFilme.Size = new System.Drawing.Size(56, 26);
             this.txtCodFilme.TabIndex = 0;
+            this.txtCodFilme.TextChanged += new System.EventHandler(this.txtCodFilme_TextChanged);
             // 
             // btnAlterar
             // 
@@ -267,6 +268,7 @@ namespace prjLocadora
             this.btnSalvar.TabIndex = 16;
             this.btnSalvar.Text = "Salvar";
             this.btnSalvar.UseVisualStyleBackColor = true;
+            this.btnSalvar.Click += new System.EventHandler(this.btnSalvar_Click);
             // 
             // btnNovo
             // 
@@ -276,6 +278,7 @@ namespace prjLocadora
             this.btnNovo.TabIndex = 15;
             this.btnNovo.Text = "Novo";
             this.btnNovo.UseVisualStyleBackColor = true;
+            this.btnNovo.Click += new System.EventHandler(this.btnNovo_Click);
             // 
             // frmFilmes
             // 
